@@ -9,7 +9,6 @@
     - [Installation](#installation)
   - [Usage](#usage)
     - [On-Chain Governance Example](#on-chain-governance-example)
-    - [Off-Chain governance Example](#off-chain-governance-example)
   - [Contact](#contact)
   - [Acknowledgments](#acknowledgments)
 
