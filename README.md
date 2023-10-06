@@ -147,9 +147,7 @@ You can also use the [Openzeppelin contract wizard](https://wizard.openzeppelin.
 <!-- CONTACT -->
 ## Contact
 
-Abhishek Kumar: Mail me at anshu51379@gmail.com 
-Twitter - [@anshu51379](https://twitter.com/anshu51379)
-Instagram - [@anshu51379](https://instagram.com/anshu51379)
+Abhishek Kumar -[@anshu51379](https://instagram.com/anshu51379)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
